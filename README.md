@@ -3,7 +3,8 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-anjos/)
 
-![Michael Lica dos Anjos GitHub stats](https://github-readme-stats.vercel.app/api?username=Michaell-Anjos&show_icons=true&theme=onedark)
+![Michael Anjos GitHub stats](https://github-readme-stats.vercel.app/api?username=Michaell-Anjos&show_icons=true&theme=onedark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Michaell-Anjos)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que uso para meu aprendizado, como na carreira.
 
